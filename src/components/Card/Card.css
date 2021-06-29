@@ -1,0 +1,11 @@
+
+.card {
+    height: 600px;
+    width: 300px;
+    background-color:beige;
+}
+
+.cardTitle {
+    display:flex;
+    justify-content: center;
+}

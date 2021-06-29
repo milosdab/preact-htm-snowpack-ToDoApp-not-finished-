@@ -1,0 +1,28 @@
+.cardItem {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.cardItem button {
+    height: 30px;
+    width: 80px;
+    border-radius: 5px;
+    margin: 0 5px 0 5px;
+    border:transparent
+}
+.cardItem button:hover {
+    transform: scale(1.2);
+    transition: all 0.30s ease;
+    cursor: pointer;
+}
+
+.del {
+    background-color: rgb(202, 29, 29);
+    color: white;
+}
+
+.for {
+    background-color: rgb(31, 201, 31);
+    color: white;
+}

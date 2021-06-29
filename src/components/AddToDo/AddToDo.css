@@ -1,0 +1,40 @@
+.inputadd {
+    
+    padding: 1rem;
+    width: 90%;
+    max-width: 40rem;
+  }
+  
+  .inputadd label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+  
+  .inputadd input {
+    font: inherit;
+    display: block;
+    width: 100%;
+    border: 1px solid #ccc;
+    padding: 0.15rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .inputadd input:focus {
+    outline: none;
+    border-color: #4f005f;
+  }
+
+  .btnadd {
+      width: 240px;
+      height: 50px;
+      margin-left: 10px;
+      border-radius: 5px;
+  }
+
+  .addtodo {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      
+  }
